@@ -1,0 +1,307 @@
+-- First Set of Rounds --
+
+Round 0:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 20 out of 20 tests passed.
+
+Round 1:
+
+n: 9 bits. 0 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 2:
+
+n: 9 bits. 0 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 3:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 4:
+
+n: 9 bits. 0 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 5:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 6:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 7:
+
+n: 9 bits. 0 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 20 out of 20 tests passed.
+
+Round 8:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 9:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 10:
+
+n: 9 bits. 0 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 20 out of 20 tests passed.
+
+Round 11:
+
+n: 9 bits. 1 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 12:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 13:
+
+n: 9 bits. 1 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 14:
+
+n: 9 bits. 2 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+-- END OF FIRST SET --
+
+-- Second set of Rounds --
+Round 0:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 20 out of 20 tests passed.
+
+Round 1:
+
+n: 9 bits. 0 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 2:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 20 out of 20 tests passed.
+
+Round 3:
+
+n: 9 bits. 0 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 4:
+
+n: 9 bits. 1 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 20 out of 20 tests passed.
+
+Round 5:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 20 out of 20 tests passed.
+
+Round 6:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 20 out of 20 tests passed.
+
+Round 7:
+
+n: 9 bits. 0 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 8:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 9:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 10:
+
+n: 9 bits. 0 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 20 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 20 out of 20 tests passed.
+
+Round 11:
+
+n: 9 bits. 0 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 20 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 12:
+
+n: 9 bits. 20 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 20 out of 20 tests passed.
+
+Round 13:
+
+n: 9 bits. 0 out of 20 tests passed.
+n: 33 bits. 20 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 0 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 20 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+Round 14:
+
+n: 9 bits. 1 out of 20 tests passed.
+n: 33 bits. 0 out of 20 tests passed.
+n: 129 bits. 0 out of 20 tests passed.
+n: 257 bits. 20 out of 20 tests passed.
+n: 513 bits. 0 out of 20 tests passed.
+n: 801 bits. 0 out of 20 tests passed.
+n: 1023 bits. 0 out of 20 tests passed.
+
+-- END OF 2ND SET --
+
