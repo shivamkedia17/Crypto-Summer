@@ -1,2 +1,4 @@
 __pycache*
 typetest.py
+.vscode
+tt.py
